@@ -1,0 +1,5 @@
+docopt.net
+group Test
+FsUnit.xUnit
+Microsoft.NET.Test.Sdk
+xunit.runner.visualstudio
