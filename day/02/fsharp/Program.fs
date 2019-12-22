@@ -1,6 +1,6 @@
 let usage = """Day 2: 1202 Program Alarm
-Usage: 01 <input-file>
-       01 --help
+Usage: 02 <input-file>
+       02 --help
 Options:
     -h, --help  Print this help.
 """

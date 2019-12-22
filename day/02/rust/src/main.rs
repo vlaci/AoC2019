@@ -1,5 +1,5 @@
 const USAGE: &str = "
-Day 1: Day 2: 1202 Program Alarm
+Day 2: 1202 Program Alarm
 
 Usage: alarm <input-file>
        alarm --help
