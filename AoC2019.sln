@@ -5,9 +5,9 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "day", "day", "{CC17FDC1-42A1-4ED7-B4C8-E901BFA3F7FD}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "01", "day\01\01.fsproj", "{9EE682FD-1767-48B2-A999-4401824A7A53}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "01", "day\01\fsharp\01.fsproj", "{9EE682FD-1767-48B2-A999-4401824A7A53}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "02", "day\02\02.fsproj", "{823D8237-F038-4E5B-A767-B5E37ACDFD08}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "02", "day\02\fsharp\02.fsproj", "{823D8237-F038-4E5B-A767-B5E37ACDFD08}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
