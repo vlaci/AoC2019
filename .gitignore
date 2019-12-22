@@ -1,6 +1,11 @@
+# F#
 bin/
 obj/
 .ionide
 .paket
 paket-files
 /packages/
+
+# Rust
+target/
+**/*.rs.bk
