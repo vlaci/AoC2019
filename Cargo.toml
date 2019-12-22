@@ -3,4 +3,5 @@
 members = [
     "day/01/rust",
     "day/02/rust",
+    "day/03/rust",
 ]
